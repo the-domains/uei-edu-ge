@@ -4,7 +4,7 @@
         <description><![CDATA[uei.edu.ge]]></description>
         <link>https://thegrid.ai/uei-edu-ge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 09:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 09:10:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/uei-edu-ge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Discover Georgia]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/uei-edu-ge/discover-georgia/index.html</link>
             <guid isPermaLink="false">f2a521e2-0995-4b4a-9138-46162d096e18</guid>
             <pubDate>Fri, 10 Jun 2016 09:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the University of Georgia in Tbilisi!]]></title>
+            <description><![CDATA[<article><h1>Welcome to the University of Georgia in Tbilisi!</h1><p>UNIVERSAL EDUCATION INSTITUTE(UNIVERSITY OF GEORGIA OFFICIAL INTERNATIONAL STUDENT RECRUITING AGENCY)</p></article>]]></description>
+            <link>https://thegrid.ai/uei-edu-ge/welcome-to-the-university-of-georgia-in-tbilisi/index.html</link>
+            <guid isPermaLink="false">11d4539a-98ba-453a-b06f-5af9e59f4d9f</guid>
+            <pubDate>Fri, 10 Jun 2016 09:09:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
