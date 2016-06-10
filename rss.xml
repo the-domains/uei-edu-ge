@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[uei.edu.ge]]></title>
+        <description><![CDATA[uei.edu.ge]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 10 Jun 2016 09:06:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Discover Georgia]]></title>
+            <description><![CDATA[<article><h1>Discover Georgia</h1><p>Georgia, located at the crossroads of Europe and Asia, is a combination of uniqueness and diversity. The country, known as the cradle of wine offers Caucasus mountain range, Black Sea coastline, curative climate and mineral waters, national parks and UNESCO Heritage Sites, rich culture, delicious cuisine and famous Georgian hospitality.</p></article>]]></description>
+            <link>undefineddiscover-georgia/index.html</link>
+            <guid isPermaLink="false">f2a521e2-0995-4b4a-9138-46162d096e18</guid>
+            <pubDate>Fri, 10 Jun 2016 09:06:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
