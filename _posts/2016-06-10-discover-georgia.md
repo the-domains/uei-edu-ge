@@ -10,14 +10,14 @@ description: >-
   Caucasus mountain range, Black Sea coastline, curative climate and mineral
   waters, national parks and UNESCO Heritage Sites, rich culture, delicious
   cuisine and famous Georgian hospitality.
-datePublished: '2016-06-10T09:06:37.978Z'
-dateModified: '2016-06-10T09:06:36.580Z'
+datePublished: '2016-06-10T09:07:04.553Z'
+dateModified: '2016-06-10T09:06:56.812Z'
 title: Discover Georgia
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-10-discover-georgia.md
+starred: true
 url: discover-georgia/index.html
 _type: Article
 
