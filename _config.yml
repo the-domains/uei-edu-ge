@@ -1,0 +1,28 @@
+name: uei.edu.ge
+favicon: null
+layout_spectrum: 0.509923386387527
+typography_spectrum: 0.8772400915622711
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5572187579236925
+  lightness: 0.6510944296605885
+  saturation: 0.35160374687984586
+  rhythmicContrast: 0.40123026398941875
+purpose: []
